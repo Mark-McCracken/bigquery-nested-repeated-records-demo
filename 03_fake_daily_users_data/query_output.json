@@ -1,0 +1,812 @@
+[
+  {
+  "date": "2022-01-01",
+  "fullVisitorId": "123456789",
+  "platform": "Desktop",
+  "browser": {
+    "name": "Chrome",
+    "version": "95.0.4638.69"
+  },
+  "operatingSystem": {
+    "name": "Windows",
+    "version": "10"
+  },
+  "device": {
+    "category": "desktop",
+    "make": "HP",
+    "model": "Elitebook"
+  },
+  "isLikelyBot": "false",
+  "appVersion": "1.0.0",
+  "mainOrientation": "landscape",
+  "orientations": ["portrait", "landscape"],
+  "mainCountryName": "United States",
+  "geo": {
+    "mainContinent": "North America",
+    "mainCountry": "United States",
+    "mainRegion": "California",
+    "mainMetro": "Los Angeles",
+    "mainCity": "LA",
+    "countryNames": ["United States"]
+  },
+  "isFirstVisit": {
+    "ever": "false",
+    "thisWeek": "true",
+    "thisMonth": "true",
+    "since": "2022-01-01"
+  },
+  "total": {
+    "hits": "10",
+    "sessions": "3",
+    "pageViews": "20",
+    "secondsOnSite": "180"
+  },
+  "views": [{
+    "sport": "Basketball",
+    "sportTotal": {
+      "hits": "2",
+      "sessions": "1",
+      "pageViews": "10",
+      "secondsOnSport": "60"
+    },
+    "competitions": [{
+      "competition_name": "NBA",
+      "competitionTotal": {
+        "hits": "1",
+        "sessions": "1",
+        "pageViews": "5",
+        "secondsOnCompetition": "30"
+      },
+      "sportingEvents": [{
+        "country": "USA",
+        "homeTeam": "Lakers",
+        "awayTeam": "Nets",
+        "sportingEventTotal": {
+          "hits": "1",
+          "sessions": "1",
+          "pageViews": "5",
+          "secondsOnEvent": "30"
+        },
+        "sportingEventStateDetails": [{
+          "state": "in_game",
+          "stateTotal": {
+            "hits": "1",
+            "sessions": "1",
+            "pageViews": "5",
+            "secondsOnEventState": "30"
+          },
+          "screenDetails": [{
+            "screen": "play_by_play",
+            "screenTotal": {
+              "hits": "1",
+              "sessions": "1",
+              "pageViews": "5",
+              "secondsOnScreenView": "30"
+            }
+          }]
+        }]
+      }]
+    }, {
+      "competition_name": "EuroLeague",
+      "competitionTotal": {
+        "hits": "1",
+        "sessions": "1",
+        "pageViews": "5",
+        "secondsOnCompetition": "30"
+      },
+      "sportingEvents": [{
+        "country": "Spain",
+        "homeTeam": "Real Madrid",
+        "awayTeam": "Barcelona",
+        "sportingEventTotal": {
+          "hits": "1",
+          "sessions": "1",
+          "pageViews": "5",
+          "secondsOnEvent": "30"
+        },
+        "sportingEventStateDetails": [{
+          "state": "in_game",
+          "stateTotal": {
+            "hits": "1",
+            "sessions": "1",
+            "pageViews": "5",
+            "secondsOnEventState": "30"
+          },
+          "screenDetails": [{
+            "screen": "play_by_play",
+            "screenTotal": {
+              "hits": "1",
+              "sessions": "1",
+              "pageViews": "5",
+              "secondsOnScreenView": "30"
+            }
+          }]
+        }]
+      }]
+    }]
+  }]
+}, {
+  "date": "2022-03-07",
+  "fullVisitorId": "1234567890123457",
+  "platform": "Mobile",
+  "browser": {
+    "name": "Brave",
+    "version": "97.0.4692.99"
+  },
+  "operatingSystem": {
+    "name": "iOS",
+    "version": "16"
+  },
+  "device": {
+    "category": "tablet",
+    "make": "Apple",
+    "model": "iPad Pro 13"
+  },
+  "isLikelyBot": "false",
+  "appVersion": "1.2.4",
+  "mainOrientation": "landscape",
+  "orientations": ["landscape"],
+  "mainCountryName": "United Kingdom",
+  "geo": {
+    "mainContinent": "Europe",
+    "mainCountry": "United Kingdom",
+    "mainRegion": "Greater London",
+    "mainMetro": "Haringey",
+    "mainCity": "Hornsey",
+    "countryNames": ["United Kingdom"]
+  },
+  "isFirstVisit": {
+    "ever": "false",
+    "thisWeek": "false",
+    "thisMonth": "true",
+    "since": "2022-03-08"
+  },
+  "total": {
+    "hits": "2",
+    "sessions": "1",
+    "pageViews": "4",
+    "secondsOnSite": "180"
+  },
+  "views": [
+   {
+    "sport": "Football",
+    "sportTotal": {
+      "hits": "5",
+      "sessions": "3",
+      "pageViews": "10",
+      "secondsOnSport": "1200"
+    },
+    "competitions": [
+      {
+      "competition_name": "Premier League",
+      "competitionTotal": {
+        "hits": "3",
+        "sessions": "2",
+        "pageViews": "5",
+        "secondsOnCompetition": "500"
+      },
+      "sportingEvents": [{
+        "country": "England",
+        "homeTeam": "Manchester United",
+        "awayTeam": "Arsenal",
+        "sportingEventTotal": {
+          "hits": "2",
+          "sessions": "1",
+          "pageViews": "3",
+          "secondsOnEvent": "300"
+        },
+        "sportingEventStateDetails": [{
+          "state": "match started",
+          "stateTotal": {
+            "hits": "1",
+            "sessions": "2",
+            "pageViews": "8",
+            "secondsOnEventState": "1100"
+          },
+          "screenDetails": [{
+            "screen": "score",
+            "screenTotal": {
+              "hits": "1",
+              "sessions": "1",
+              "pageViews": "2",
+              "secondsOnScreenView": "200"
+            }
+          }, {
+            "screen": "lineups",
+            "screenTotal": {
+              "hits": "1",
+              "sessions": "2",
+              "pageViews": "3",
+              "secondsOnScreenView": "400"
+            }
+          }, {
+            "screen": "lineups",
+            "screenTotal": {
+              "hits": "1",
+              "sessions": "2",
+              "pageViews": "3",
+              "secondsOnScreenView": "500"
+            }
+          }]
+        }, {
+          "state": "match ended",
+          "stateTotal": {
+            "hits": "1",
+            "sessions": "0",
+            "pageViews": "1",
+            "secondsOnEventState": "100"
+          },
+          "screenDetails": [{
+            "screen": "scorers",
+            "screenTotal": {
+              "hits": "1",
+              "sessions": "0",
+              "pageViews": "1",
+              "secondsOnScreenView": "100"
+            }
+          }]
+        }]
+      },
+      {
+        "country": "Spain",
+        "homeTeam": "Barcelona",
+        "awayTeam": "Real Madrid",
+        "sportingEventTotal": {
+          "hits": "1",
+          "sessions": "1",
+          "pageViews": "2",
+          "secondsOnEvent": "200"
+        },
+        "sportingEventStateDetails": [{
+          "state": "match started",
+          "stateTotal": {
+            "hits": "0",
+            "sessions": "0",
+            "pageViews": "0",
+            "secondsOnEventState": "0"
+          },
+          "screenDetails": [{
+            "screen": "score",
+            "screenTotal": {
+              "hits": "0",
+              "sessions": "0",
+              "pageViews": "0",
+              "secondsOnScreenView": "0"
+            }
+          }, {
+            "screen": "lineups",
+            "screenTotal": {
+              "hits": "0",
+              "sessions": "0",
+              "pageViews": "0",
+              "secondsOnScreenView": "0"
+            }
+          }]
+        }, {
+          "state": "match ended",
+          "stateTotal": {
+            "hits": "1",
+            "sessions": "0",
+            "pageViews": "1",
+            "secondsOnEventState": "100"
+          },
+          "screenDetails": [{
+            "screen": "scorers",
+            "screenTotal": {
+              "hits": "1",
+              "sessions": "0",
+              "pageViews": "1",
+              "secondsOnScreenView": "100"
+            }
+          }]
+        }]
+      }]
+    },
+    {
+      "competition_name": "Champions League",
+      "competitionTotal": {
+        "hits": "2",
+        "sessions": "1",
+        "pageViews": "5",
+        "secondsOnCompetition": "500"
+      },
+      "sportingEvents": [{
+        "country": "Italy",
+        "homeTeam": "Milan",
+        "awayTeam": "Inter",
+        "sportingEventTotal": {
+          "hits": "1",
+          "sessions": "1",
+          "pageViews": "2",
+          "secondsOnEvent": "200"
+        },
+        "sportingEventStateDetails": [{
+          "state": "match started",
+          "stateTotal": {
+            "hits": "1",
+            "sessions": "1",
+            "pageViews": "2",
+            "secondsOnEventState": "200"
+          },
+          "screenDetails": [{
+            "screen": "score",
+            "screenTotal": {
+              "hits": "1",
+              "sessions": "1",
+              "pageViews": "2",
+              "secondsOnScreenView": "200"
+            }
+          }, {
+            "screen": "lineups",
+            "screenTotal": {
+              "hits": "0",
+              "sessions": "0",
+              "pageViews": "0",
+              "secondsOnScreenView": "0"
+            }
+          }]
+        }, {
+          "state": "match ended",
+          "stateTotal": {
+            "hits": "0",
+            "sessions": "0",
+            "pageViews": "0",
+            "secondsOnEventState": "0"
+          },
+          "screenDetails": [{
+            "screen": "scorers",
+            "screenTotal": {
+              "hits": "0",
+              "sessions": "0",
+              "pageViews": "0",
+              "secondsOnScreenView": "0"
+            }
+          }]
+        }]
+      }]
+    }
+  ]
+  },
+  {
+    "sport": "Formula 1",
+    "sportTotal": {
+      "hits": "5",
+      "sessions": "3",
+      "pageViews": "10",
+      "secondsOnSport": "1200"
+    },
+    "competitions": [{
+      "competition_name": "Formula 1",
+      "competitionTotal": {
+        "hits": "3",
+        "sessions": "2",
+        "pageViews": "5",
+        "secondsOnCompetition": "500"
+      },
+      "sportingEvents": [{
+        "country": "Italy",
+        "homeTeam": "Monza",
+        "awayTeam": null,
+        "sportingEventTotal": {
+          "hits": "2",
+          "sessions": "1",
+          "pageViews": "3",
+          "secondsOnEvent": "300"
+        },
+        "sportingEventStateDetails": [{
+          "state": "grid walk",
+          "stateTotal": {
+            "hits": "1",
+            "sessions": "2",
+            "pageViews": "8",
+            "secondsOnEventState": "1100"
+          },
+          "screenDetails": [{
+            "screen": "qualifying positions",
+            "screenTotal": {
+              "hits": "1",
+              "sessions": "1",
+              "pageViews": "2",
+              "secondsOnScreenView": "200"
+            }
+          }, {
+            "screen": "car configuration",
+            "screenTotal": {
+              "hits": "1",
+              "sessions": "2",
+              "pageViews": "3",
+              "secondsOnScreenView": "400"
+            }
+          }, {
+            "screen": "driver points",
+            "screenTotal": {
+              "hits": "1",
+              "sessions": "2",
+              "pageViews": "3",
+              "secondsOnScreenView": "500"
+            }
+          }]
+        }, {
+          "state": "live racing",
+          "stateTotal": {
+            "hits": "1",
+            "sessions": "0",
+            "pageViews": "1",
+            "secondsOnEventState": "100"
+          },
+          "screenDetails": [{
+            "screen": "live track positions",
+            "screenTotal": {
+              "hits": "1",
+              "sessions": "0",
+              "pageViews": "1",
+              "secondsOnScreenView": "100"
+            }
+          }]
+        }, {
+          "state": "post race interview",
+          "stateTotal": {
+            "hits": "1",
+            "sessions": "0",
+            "pageViews": "1",
+            "secondsOnEventState": "100"
+          },
+          "screenDetails": [{
+            "screen": "fastest lap",
+            "screenTotal": {
+              "hits": "1",
+              "sessions": "0",
+              "pageViews": "1",
+              "secondsOnScreenView": "100"
+            }
+          }]
+        }]
+      }, {
+        "country": "Barcelona",
+        "homeTeam": "Catalunya",
+        "awayTeam": null,
+        "sportingEventTotal": {
+          "hits": "1",
+          "sessions": "1",
+          "pageViews": "2",
+          "secondsOnEvent": "200"
+        },
+        "sportingEventStateDetails": [{
+          "state": "grid walk",
+          "stateTotal": {
+            "hits": "0",
+            "sessions": "0",
+            "pageViews": "0",
+            "secondsOnEventState": "0"
+          },
+          "screenDetails": [{
+            "screen": "qualifying",
+            "screenTotal": {
+              "hits": "0",
+              "sessions": "0",
+              "pageViews": "0",
+              "secondsOnScreenView": "0"
+            }
+          }, {
+            "screen": "constructors points",
+            "screenTotal": {
+              "hits": "0",
+              "sessions": "0",
+              "pageViews": "0",
+              "secondsOnScreenView": "0"
+            }
+          }]
+        }, {
+          "state": "post race interviews",
+          "stateTotal": {
+            "hits": "1",
+            "sessions": "0",
+            "pageViews": "1",
+            "secondsOnEventState": "100"
+          },
+          "screenDetails": [{
+            "screen": "points",
+            "screenTotal": {
+              "hits": "1",
+              "sessions": "0",
+              "pageViews": "1",
+              "secondsOnScreenView": "100"
+            }
+          }]
+        }]
+      }]
+    }, {
+      "competition_name": "Formula 2",
+      "competitionTotal": {
+        "hits": "2",
+        "sessions": "1",
+        "pageViews": "5",
+        "secondsOnCompetition": "500"
+      },
+      "sportingEvents": [{
+        "country": "United Kingdom",
+        "homeTeam": "Silverstone",
+        "awayTeam": null,
+        "sportingEventTotal": {
+          "hits": "1",
+          "sessions": "1",
+          "pageViews": "2",
+          "secondsOnEvent": "200"
+        },
+        "sportingEventStateDetails": [{
+          "state": "grid walk",
+          "stateTotal": {
+            "hits": "1",
+            "sessions": "1",
+            "pageViews": "2",
+            "secondsOnEventState": "200"
+          },
+          "screenDetails": [{
+            "screen": "qualifying positions",
+            "screenTotal": {
+              "hits": "1",
+              "sessions": "1",
+              "pageViews": "2",
+              "secondsOnScreenView": "200"
+            }
+          }, {
+            "screen": "car configurations",
+            "screenTotal": {
+              "hits": "0",
+              "sessions": "0",
+              "pageViews": "0",
+              "secondsOnScreenView": "0"
+            }
+          }]
+        }, {
+          "state": "live racing",
+          "stateTotal": {
+            "hits": "0",
+            "sessions": "0",
+            "pageViews": "0",
+            "secondsOnEventState": "0"
+          },
+          "screenDetails": [{
+            "screen": "pitstop view",
+            "screenTotal": {
+              "hits": "0",
+              "sessions": "0",
+              "pageViews": "0",
+              "secondsOnScreenView": "0"
+            }
+          }]
+        }]
+      }]
+    }]
+  }]
+}, {
+  "date": "2022-03-07",
+  "fullVisitorId": "1234567890123456",
+  "platform": "Mobile",
+  "browser": {
+    "name": "Chrome",
+    "version": "97.0.4692.99"
+  },
+  "operatingSystem": {
+    "name": "Android",
+    "version": "11"
+  },
+  "device": {
+    "category": "tablet",
+    "make": "Samsung",
+    "model": "Galaxy Tab S6 Lite"
+  },
+  "isLikelyBot": "false",
+  "appVersion": "1.2.3",
+  "mainOrientation": "portrait",
+  "orientations": ["portrait", "landscape"],
+  "mainCountryName": "United States",
+  "geo": {
+    "mainContinent": "North America",
+    "mainCountry": "United States",
+    "mainRegion": "California",
+    "mainMetro": "Los Angeles",
+    "mainCity": "LA",
+    "countryNames": ["United States"]
+  },
+  "isFirstVisit": {
+    "ever": "false",
+    "thisWeek": "false",
+    "thisMonth": "true",
+    "since": "2022-03-01"
+  },
+  "total": {
+    "hits": "2",
+    "sessions": "1",
+    "pageViews": "4",
+    "secondsOnSite": "180"
+  },
+  "views": [
+    {
+    "sport": "Football",
+    "sportTotal": {
+      "hits": "5",
+      "sessions": "3",
+      "pageViews": "10",
+      "secondsOnSport": "1200"
+    },
+    "competitions": [{
+      "competition_name": "Premier League",
+      "competitionTotal": {
+        "hits": "3",
+        "sessions": "2",
+        "pageViews": "5",
+        "secondsOnCompetition": "500"
+      },
+      "sportingEvents": [{
+        "country": "England",
+        "homeTeam": "Manchester United",
+        "awayTeam": "Arsenal",
+        "sportingEventTotal": {
+          "hits": "2",
+          "sessions": "1",
+          "pageViews": "3",
+          "secondsOnEvent": "300"
+        },
+        "sportingEventStateDetails": [{
+          "state": "match started",
+          "stateTotal": {
+            "hits": "1",
+            "sessions": "1",
+            "pageViews": "2",
+            "secondsOnEventState": "200"
+          },
+          "screenDetails": [{
+            "screen": "score",
+            "screenTotal": {
+              "hits": "1",
+              "sessions": "1",
+              "pageViews": "2",
+              "secondsOnScreenView": "200"
+            }
+          }, {
+            "screen": "lineups",
+            "screenTotal": {
+              "hits": "0",
+              "sessions": "0",
+              "pageViews": "0",
+              "secondsOnScreenView": "0"
+            }
+          }]
+        }, {
+          "state": "match ended",
+          "stateTotal": {
+            "hits": "1",
+            "sessions": "0",
+            "pageViews": "1",
+            "secondsOnEventState": "100"
+          },
+          "screenDetails": [{
+            "screen": "scorers",
+            "screenTotal": {
+              "hits": "1",
+              "sessions": "0",
+              "pageViews": "1",
+              "secondsOnScreenView": "100"
+            }
+          }]
+        }]
+      }, {
+        "country": "Spain",
+        "homeTeam": "Barcelona",
+        "awayTeam": "Real Madrid",
+        "sportingEventTotal": {
+          "hits": "1",
+          "sessions": "1",
+          "pageViews": "2",
+          "secondsOnEvent": "200"
+        },
+        "sportingEventStateDetails": [{
+          "state": "match started",
+          "stateTotal": {
+            "hits": "0",
+            "sessions": "0",
+            "pageViews": "0",
+            "secondsOnEventState": "0"
+          },
+          "screenDetails": [{
+            "screen": "score",
+            "screenTotal": {
+              "hits": "0",
+              "sessions": "0",
+              "pageViews": "0",
+              "secondsOnScreenView": "0"
+            }
+          }, {
+            "screen": "lineups",
+            "screenTotal": {
+              "hits": "0",
+              "sessions": "0",
+              "pageViews": "0",
+              "secondsOnScreenView": "0"
+            }
+          }]
+        }, {
+          "state": "match ended",
+          "stateTotal": {
+            "hits": "1",
+            "sessions": "0",
+            "pageViews": "1",
+            "secondsOnEventState": "100"
+          },
+          "screenDetails": [{
+            "screen": "scorers",
+            "screenTotal": {
+              "hits": "1",
+              "sessions": "0",
+              "pageViews": "1",
+              "secondsOnScreenView": "100"
+            }
+          }]
+        }]
+      }]
+    }, {
+      "competition_name": "Champions League",
+      "competitionTotal": {
+        "hits": "2",
+        "sessions": "1",
+        "pageViews": "5",
+        "secondsOnCompetition": "500"
+      },
+      "sportingEvents": [{
+        "country": "Italy",
+        "homeTeam": "Milan",
+        "awayTeam": "Inter",
+        "sportingEventTotal": {
+          "hits": "1",
+          "sessions": "1",
+          "pageViews": "2",
+          "secondsOnEvent": "200"
+        },
+        "sportingEventStateDetails": [{
+          "state": "match started",
+          "stateTotal": {
+            "hits": "1",
+            "sessions": "1",
+            "pageViews": "2",
+            "secondsOnEventState": "200"
+          },
+          "screenDetails": [{
+            "screen": "score",
+            "screenTotal": {
+              "hits": "1",
+              "sessions": "1",
+              "pageViews": "2",
+              "secondsOnScreenView": "200"
+            }
+          }, {
+            "screen": "lineups",
+            "screenTotal": {
+              "hits": "0",
+              "sessions": "0",
+              "pageViews": "0",
+              "secondsOnScreenView": "0"
+            }
+          }]
+        }, {
+          "state": "match ended",
+          "stateTotal": {
+            "hits": "0",
+            "sessions": "0",
+            "pageViews": "0",
+            "secondsOnEventState": "0"
+          },
+          "screenDetails": [{
+            "screen": "scorers",
+            "screenTotal": {
+              "hits": "0",
+              "sessions": "0",
+              "pageViews": "0",
+              "secondsOnScreenView": "0"
+            }
+          }]
+        }]
+      }]
+    }]
+  }]
+}]
